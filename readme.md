@@ -18,3 +18,5 @@ Specific Arduboy games worth testing:
 - ABsynth FM: PWM driver on timer 4; game will freeze without it.
 - Evade: Plays music on timer 3.
 - Evade 2: Plays music on timer 4.
+- Starduino: Uploads its data in reversed bit order, with segment remapping enabled.
+- ZooEscape: Sets the page mode start address outside of page mode.
